@@ -51,7 +51,7 @@ python TomatoTime.py
 
 ## **📸 Capturas de pantalla**
 ### **Interfaz principal**
-![Interfaz Principal](https://via.placeholder.com/400x300.png?text=Captura+de+TomatoTime)
+![Interfaz Principal](tomatotime.jpg)
 
 ---
 
@@ -87,8 +87,8 @@ Este proyecto está bajo la licencia MIT. ¡Eres libre de usarlo, mejorarlo y co
 
 ## **📧 Contacto**
 Si tienes preguntas o comentarios, no dudes en escribirme:  
-- GitHub: [tuusuario](https://github.com/tuusuario)  
-- Email: [tucorreo@example.com](mailto:tucorreo@example.com)
+- GitHub: [tuusuario](https://github.com/jaimeirazabal1)  
+- Email: [tucorreo@example.com](mailto:jaimeirazabal1@gmail.com)
 
 ---
 
