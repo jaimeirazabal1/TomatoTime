@@ -87,8 +87,8 @@ Este proyecto está bajo la licencia MIT. ¡Eres libre de usarlo, mejorarlo y co
 
 ## **📧 Contacto**
 Si tienes preguntas o comentarios, no dudes en escribirme:  
-- GitHub: [tuusuario](https://github.com/jaimeirazabal1)  
-- Email: [tucorreo@example.com](mailto:jaimeirazabal1@gmail.com)
+- GitHub: [jaimeirazabal1](https://github.com/jaimeirazabal1)  
+- Email: [mailto:jaimeirazabal1@gmail.com](mailto:jaimeirazabal1@gmail.com)
 
 ---
 
